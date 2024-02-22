@@ -1,0 +1,26 @@
+.userNameInput{
+
+    width:500px;
+}
+
+.userPasswordInput{
+    width:500px;
+}
+
+.signInInputForm{
+    width:500px;
+}
+
+.textStyle{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.buttonStyle{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+.singinPage{
+    margin-top: 10%;
+    margin-left:30%;
+}

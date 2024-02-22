@@ -1,0 +1,26 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-container {
+  width: 90%;
+}
+
+h1 {
+  margin-bottom: 3rem;
+}
+
+.search {
+  width: 360px;
+}
+
+.select {
+  width: 120px;
+}
+
+.search-row {
+  margin-left: 24px;
+}

@@ -1,0 +1,21 @@
+.textStyle{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.buttonStyle{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+.inputSize{
+    width:500px;
+}
+
+.emailInputSize{
+    width:250px;
+}
+
+.singupPage{
+    margin-top: 10%;
+    margin-left:30%;
+}

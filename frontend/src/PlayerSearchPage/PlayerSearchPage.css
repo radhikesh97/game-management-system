@@ -1,0 +1,18 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.playersearch-content {
+  width: 90%;
+}
+
+.search-row {
+  margin-left: 24px;
+}
+
+h1 {
+  margin-bottom: 3rem;
+}

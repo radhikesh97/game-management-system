@@ -1,0 +1,37 @@
+
+/*css style for menu item */
+.MenuItem{
+    height:50px;
+    width:200px;
+    text-align: center;
+}
+
+/*css styple for horizontal menu bar*/
+.Menu{
+  border-style: solid;
+  border-color: black;
+  border-width: medium;
+}
+
+.LogInMenuItem{
+  height:50px;
+  width:200px;
+  text-align: center;
+  margin-left: px;
+  margin-right: 30px;
+}
+
+.LoggedInMenu{
+   height: 80px;
+  width:200px;
+  text-align: left;
+  margin-top: 8px;
+  margin-left: 130px;
+
+}
+
+.LoggedInButton{
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+}

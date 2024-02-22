@@ -1,0 +1,38 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gameinfo-container {
+  width: 90%;
+}
+
+.rate-container {
+  margin-left: 30px;
+}
+
+.review-box {
+  width: 80%;
+  margin-bottom: 1rem;
+}
+
+.review-content {
+  margin-bottom: 1rem;
+}
+
+.username {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #999;
+}
+
+.update-button {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+}

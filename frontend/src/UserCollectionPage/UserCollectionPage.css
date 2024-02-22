@@ -1,0 +1,16 @@
+.textStyle{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.skeletonStyle{
+    width:2000px;
+    height:2000px,
+}
+
+.containerStyle{
+    width:100%;
+}
+
+.metaStyle{
+    padding-left: 30%;
+}

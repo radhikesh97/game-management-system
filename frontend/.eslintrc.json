@@ -1,0 +1,37 @@
+{
+  "extends": ["eslint:recommended", "plugin:react/recommended", "prettier"],
+  "plugins": ["prettier"],
+  // "rules": {
+  //   "prettier/prettier": [
+  //   "error",  
+  //   {
+  //     "endOfLine": "auto"
+  //   }
+  // ]
+  // },
+  "rules": {
+    "prettier/prettier":"off",
+    "react/prop-types": "off"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module",
+    "babelOptions": {
+      "presets": ["@babel/preset-react"]
+    },
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "parser": "@babel/eslint-parser"
+}

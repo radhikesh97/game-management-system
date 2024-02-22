@@ -1,0 +1,31 @@
+.spaceStyle{
+    width:2000px,
+}
+
+.pageContainer{
+    width: 1200px;
+}
+
+.collectionInfoContainer{
+    width: 100%;
+    
+}
+
+.skeletonStyle{
+    width:2000px;
+    height:2000px,
+}
+
+
+
+
+.edtiableImage{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.imageStyle{
+    max-width: 100%;
+    max-height: 100%;
+}
+

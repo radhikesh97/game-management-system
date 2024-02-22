@@ -1,0 +1,17 @@
+.forum-box {
+  width: 80%;
+  margin-bottom: 1rem;
+}
+
+.forum-content {
+  margin-bottom: 1rem;
+}
+
+.forum-username {
+  position: absolute;
+  bottom: 3rem;
+  right: 1rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #999;
+}
